@@ -1,4 +1,4 @@
-  <img src="https://capsule-render.vercel.app/api?type=Waving&color=auto&height=200&section=header&text=최소연&fontSize=50&fontAlign=88&fontAlignY=30&animation=twinkling&desc=Survival-Front-end%20Developer&descAlign=81&descAlignY=50&fontColor=FFFFFF"/>
+  <img src="https://capsule-render.vercel.app/api?type=Waving&color=auto&height=200&section=header&text=최소연&fontSize=50&fontAlign=88&fontAlignY=30&animation=twinkling&desc=Front-end%20Developer&descAlign=85&descAlignY=50&fontColor=FFFFFF"/>
 
 # 안녕하세요 최소연입니다.
 ### 프론트엔드 공부중입니다
